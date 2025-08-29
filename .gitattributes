@@ -1,0 +1,11 @@
+* text=auto
+
+# Store these as LF in the repo
+*.py     text eol=lf
+*.ipynb  text eol=lf
+*.md     text eol=lf
+*.csv    text eol=lf
+
+# Keep Windows scripts CRLF in your working tree
+*.bat    text eol=crlf
+*.ps1    text eol=crlf
