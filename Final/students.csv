@@ -1,0 +1,51 @@
+student_id,age,major,prior_online_experience,weekly_study_hours
+S001,24,Psychology,None,16
+S002,37,Biology,None,15
+S003,46,Biology,None,4
+S004,32,Business,Medium,2
+S005,28,Psychology,None,6
+S006,25,Education,None,15
+S007,46,Psychology,None,8
+S008,38,Education,Medium,10
+S009,24,Business,None,16
+S010,43,Computer Science,High,16
+S011,36,Biology,None,11
+S012,40,Business,High,14
+S013,28,Biology,High,8
+S014,28,Computer Science,High,18
+S015,41,Computer Science,Medium,5
+S016,38,Business,Medium,6
+S017,21,Computer Science,Medium,8
+S018,25,Education,None,14
+S019,41,Computer Science,High,16
+S020,20,Biology,Medium,12
+S021,39,Biology,Medium,5
+S022,38,Biology,None,14
+S023,19,Biology,Medium,8
+S024,41,Education,None,3
+S025,29,Psychology,Low,11
+S026,47,Business,Medium,14
+S027,23,Biology,Low,7
+S028,19,Computer Science,None,13
+S029,49,Biology,High,13
+S030,45,Computer Science,Medium,12
+S031,38,Computer Science,None,8
+S032,18,Biology,High,2
+S033,29,Education,High,2
+S034,43,Computer Science,Low,14
+S035,39,Computer Science,None,10
+S036,46,Biology,High,4
+S037,29,Computer Science,Medium,8
+S038,42,Computer Science,Medium,7
+S039,34,Biology,Low,9
+S040,44,Biology,High,10
+S041,44,Business,None,6
+S042,48,Education,Medium,2
+S043,27,Education,High,11
+S044,49,Computer Science,High,13
+S045,45,Education,Low,16
+S046,45,Computer Science,Medium,10
+S047,33,Business,Medium,18
+S048,32,Biology,None,18
+S049,47,Biology,Medium,13
+S050,47,Biology,None,8
